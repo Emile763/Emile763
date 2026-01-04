@@ -2,7 +2,8 @@
 I like playing with rendering codes and physical simulations.  
 
 - 🔭 I'm currently gathering my old projects.
-- 🔨 I'm currently working on [ttf-reader](https://github.com/Emile763/ttf-reader.git), [renderer](https://github.com/Emile763/renderer)
+- 🔨 I'm currently working on [ada_bomberman](https://github.com/Emile763/ada_bomberman), [ttf-reader](https://github.com/Emile763/ttf-reader) and [renderer](https://github.com/Emile763/renderer)
+
 
 - 👾 Some of my old projects:  
   - 2024:  
